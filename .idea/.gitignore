@@ -9,3 +9,4 @@
 /*.xml
 
 !/fastRequest/fastRequestCurrentParamGroup.xml
+!/fastRequest/
