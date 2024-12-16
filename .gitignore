@@ -35,5 +35,6 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store!/.idea/fastRequest/
+.DS_Store
 !/.idea/fastRequest/
+!/.idea/fastRequest/fastRequestCurrentParamGroup.xml
