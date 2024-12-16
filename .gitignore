@@ -39,3 +39,6 @@ build/
 !/.idea/fastRequest/
 !/.idea/fastRequest/fastRequestCurrentParamGroup.xml
 !/.idea/
+
+!/.idea/fastRequest/fastRequestCollection.xml
+!/.idea/fastRequest/fastRequestHistoryConfig.xml
