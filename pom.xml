@@ -7,6 +7,10 @@
     <groupId>com.fancyliu</groupId>
     <artifactId>springboot-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>quickstart</module>
+    </modules>
 
     <!-- 项目主目录只约定 SpringBoot Starter 版本，具体依赖各模块自己确定   -->
     <parent>
