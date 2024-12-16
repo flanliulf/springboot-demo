@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.fancyliu.springboot.quickstart.controller.HelloController" />
+    <option name="filePath" value="" />
+    <option name="method" value="hello" />
+    <option name="module" value="quickstart" />
+    <option name="originUrl" value="/hello" />
+    <option name="responseParamMap">
+      <map>
+        <entry key="return">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+    <option name="url" value="/hello" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestHistoryConfig">
+    <option name="historyList">
+      <list>
+        <ResponseHistory>
+          <option name="className" value="com.fancyliu.springboot.quickstart.controller.HelloController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="quickstart" />
+          <option name="method" value="hello" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="com.fancyliu.springboot.quickstart.controller.HelloController" />
+              <option name="method" value="hello" />
+              <option name="methodDescription" value="hello" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/hello" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/hello" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8081/hello&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.8.1&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="hello" />
+          <option name="url" value="/hello" />
+        </ResponseHistory>
+      </list>
+    </option>
+  </component>
+</project>
